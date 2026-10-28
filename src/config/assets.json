@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "project": "promptedsite-agency-experience",
+  "release": "d78fb9d206b08c3b",
+  "prefix": "templates/promptedsite-agency-experience/releases/d78fb9d206b08c3b",
+  "baseUrl": "https://cdn.promptedsite.com/templates/promptedsite-agency-experience/releases/d78fb9d206b08c3b",
+  "totalBytes": 2523901,
+  "files": {
+    "decoders/draco_decoder.wasm": {
+      "bytes": 192420,
+      "sha256": "a680d927bed9cb864ddbd63521868891af2bfbe755092761b4837487618df8ac",
+      "contentType": "application/wasm"
+    },
+    "decoders/draco_wasm_wrapper.js": {
+      "bytes": 58048,
+      "sha256": "16dfa15f9051497c61f2e01c81a5d325036840834854315aab51ca6c662f0a93",
+      "contentType": "application/javascript"
+    },
+    "fonts/helvetica-now-display-medium.ttf": {
+      "bytes": 149948,
+      "sha256": "86108125cfe7f90c54407893cdfad990cbee0c0ed4bd8de227a61a0aeac74b6a",
+      "contentType": "font/ttf"
+    },
+    "icons/arrow-right.svg": {
+      "bytes": 328,
+      "sha256": "64c5898e01e7439dbf00c37503a80d4a68304789920580f2c73df3fa09058540",
+      "contentType": "image/svg+xml"
+    },
+    "icons/arrow-white.svg": {
+      "bytes": 328,
+      "sha256": "f7bcfc48ce6b50f181aaaf5a363005e510d53f69589891c73ebcbb72b63bc8f6",
+      "contentType": "image/svg+xml"
+    },
+    "icons/partner-1.svg": {
+      "bytes": 2152,
+      "sha256": "e83204e2b7fea0739300f109e4fd20c3af120a3999a493169db1049a5851ff98",
+      "contentType": "image/svg+xml"
+    },
+    "icons/partner-2.svg": {
+      "bytes": 5501,
+      "sha256": "d6105f266ad956cc3c60b0871dc1d2ce3f789a67148763d0d1332188deabad79",
+      "contentType": "image/svg+xml"
+    },
+    "icons/partner-3.svg": {
+      "bytes": 5077,
+      "sha256": "95d83213f531629d8b10df8ad53781cfccdb2548cff425a6599d282e84414d35",
+      "contentType": "image/svg+xml"
+    },
+    "icons/partner-4.svg": {
+      "bytes": 4817,
+      "sha256": "3cee950a0b0e850a70df00316655658064dc1c9fd055911ca5a426c1fd5a1a3f",
+      "contentType": "image/svg+xml"
+    },
+    "icons/partner-5.svg": {
+      "bytes": 6734,
+      "sha256": "6dd3aaa7e667cc46591c99232f0baff5d16205dd8c5627cd2400d91b7378fcc4",
+      "contentType": "image/svg+xml"
+    },
+    "icons/partner-6.svg": {
+      "bytes": 2948,
+      "sha256": "db64b88c2dab2efcd048dd67aa19280a4dd4bd464147a20e98190a203706f413",
+      "contentType": "image/svg+xml"
+    },
+    "icons/partner-7.svg": {
+      "bytes": 2316,
+      "sha256": "47dfc5d900b879efbde7d9766e15816bbdfd57a844b1307d348bee0b18830c17",
+      "contentType": "image/svg+xml"
+    },
+    "icons/volume.svg": {
+      "bytes": 659,
+      "sha256": "e3f6db64c8d2c87bf83d0214750fb86130dec49406eff97877666abc8a961e86",
+      "contentType": "image/svg+xml"
+    },
+    "images/avatar-1.png": {
+      "bytes": 12154,
+      "sha256": "00cfde918fef83daf9c4a6c7e42210c57b2164b435c7817f2e28557434179fd0",
+      "contentType": "image/png"
+    },
+    "images/avatar-2.png": {
+      "bytes": 24335,
+      "sha256": "af2ca36a197f78b57d1e389203448e20b431ca1ac8b8e7d50dffcdc4b4597421",
+      "contentType": "image/png"
+    },
+    "images/avatar-3.png": {
+      "bytes": 25258,
+      "sha256": "c5f7fb688cfee3aa3e194b682c4f942f616a37ad63d60eeff78d24f731553d82",
+      "contentType": "image/png"
+    },
+    "images/avatar-4.png": {
+      "bytes": 23299,
+      "sha256": "ce0e5e7f395bf5ebdf24bb7d8698c904f4150e86e37993b7b197f6236cea77d0",
+      "contentType": "image/png"
+    },
+    "images/benefit-analytics.webp": {
+      "bytes": 15266,
+      "sha256": "e8e2a2047b53f829d827e4727ef1c5c1ff711d60b9d4ba69b1f1562a23f27fe1",
+      "contentType": "image/webp"
+    },
+    "images/benefit-growth.webp": {
+      "bytes": 37696,
+      "sha256": "e9eb853fcf856d164c790027047ca8dabaa0a403a15f22dd96f1806cd27b7be3",
+      "contentType": "image/webp"
+    },
+    "images/benefit-strategy.webp": {
+      "bytes": 12274,
+      "sha256": "ccb187577b55b4a463027bee5df42d2a37bbb2dfe896d41445e0f974a9d617f4",
+      "contentType": "image/webp"
+    },
+    "images/dashboard.png": {
+      "bytes": 485784,
+      "sha256": "ceb07d737b2be6f9bafcccfbb7621a986c35dc135f9221082fd5ebc5bab1edaf",
+      "contentType": "image/png"
+    },
+    "images/feature-automation.webp": {
+      "bytes": 46752,
+      "sha256": "b4d3983df62840dea2cf95c522b7cbc55ea0098967a31dbdb8831b2a31ab4d34",
+      "contentType": "image/webp"
+    },
+    "images/feature-campaigns.webp": {
+      "bytes": 25470,
+      "sha256": "1e9eb294d0ffcb94751f0b1ed96771d2c9ac44b786f4adaa8232f3c9bbdf855b",
+      "contentType": "image/webp"
+    },
+    "images/feature-insights.webp": {
+      "bytes": 64906,
+      "sha256": "d450d38397d201d157845382fdb5228c3f61dab21812d96beebafb1468caa3e7",
+      "contentType": "image/webp"
+    },
+    "images/solution-collaboration.png": {
+      "bytes": 87474,
+      "sha256": "a8f77cc1b8cf6a32cb8fcfd291cbd0d52045333b9d122dce731135fbc795f2f7",
+      "contentType": "image/png"
+    },
+    "images/solution-platform.png": {
+      "bytes": 89923,
+      "sha256": "1e121ea4ec86410a55c934c39fddf1cd31f272179def1be0b6cc2c14b2783fa8",
+      "contentType": "image/png"
+    },
+    "images/solution-workflow.png": {
+      "bytes": 49869,
+      "sha256": "363345f1b92dcb60e27f76285e7b476aa7aad84b2708e72d27ca49b8f45a1bd9",
+      "contentType": "image/png"
+    },
+    "images/testimonial-1.png": {
+      "bytes": 72122,
+      "sha256": "33636648af1f6d8b0cd995dabcff488a4ef7891a43026c3287488b506622a154",
+      "contentType": "image/png"
+    },
+    "images/testimonial-2.png": {
+      "bytes": 61857,
+      "sha256": "1a024dd91c5493ea7f04f607a12f004c7eda68526a042561e1f8551dd7a42e30",
+      "contentType": "image/png"
+    },
+    "images/testimonial-3.png": {
+      "bytes": 70101,
+      "sha256": "1e0ef1230996e224edf02b68c18b21f030e33e185cac26aae493eb58110d9c15",
+      "contentType": "image/png"
+    },
+    "models/coin-angled-v2.glb": {
+      "bytes": 61212,
+      "sha256": "b739f623651ecdecf7e14c18324316d7c7ad6b9cc4e73808786da165d9a0591b",
+      "contentType": "model/gltf-binary"
+    },
+    "models/coin-angled-v3.glb": {
+      "bytes": 61048,
+      "sha256": "34c15927242bc6724eec3aa8dc221589ecae6673b69311b6bbff47c0a7974847",
+      "contentType": "model/gltf-binary"
+    },
+    "scene/agency-scene.json": {
+      "bytes": 190523,
+      "sha256": "b49c0cb46779e6d83df73f57d034ad4d9a32a41c8fa0e24f53b62c7bc044a067",
+      "contentType": "application/json"
+    },
+    "textures/environment.jpg": {
+      "bytes": 98783,
+      "sha256": "67a33dbdf5a002bcf0f47f5e0a8359ca5873676a0fa1d0e22bbfdc4ec53a3c82",
+      "contentType": "image/jpeg"
+    },
+    "textures/gradient-bg.jpg": {
+      "bytes": 476519,
+      "sha256": "02f3a01be124a70795b888ef9354eb3e52538dff9df5b324fb4bc8c8ba8c360b",
+      "contentType": "image/jpeg"
+    }
+  }
+}
