@@ -1,0 +1,14 @@
+Promptedsite Agency Experience
+
+This template adapts source, design and visual assets supplied and authorized
+by the project owner. Existing third-party rights and notices remain applicable.
+
+React, React DOM, Three.js and Vite use their respective open-source licenses.
+The Draco decoder is distributed under its upstream Apache-2.0 terms. The
+Helvetica Now Display font and supplied brand assets are owner-authorized media;
+they are not represented as universally licensed under MIT. Partner names and
+logos remain the property of their respective owners.
+
+The displayed agency, pricing, testimonials, metrics and contact details are
+template demonstration content. CTA and social destinations require buyer
+configuration before production use.
